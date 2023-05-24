@@ -18,7 +18,7 @@
 	"bugs": {
 		"url": "https://github.com/Raamdeluxe/formtest/issues"
 	},
-	"homepage": "https://github.com/Raamdeluxe/formtest",
+	"homepage": "https://raamdeluxe.github.io/formtest/",
 	"devDependencies": {
 		"gh-pages": "^5.0.0",
 		"webpack": "^5.84.0",
