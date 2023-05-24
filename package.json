@@ -1,0 +1,27 @@
+{
+	"name": "formtest",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "webpack",
+		"deploy": "npm run build && gh-pages -d dist"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Raamdeluxe/formtest.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Raamdeluxe/formtest/issues"
+	},
+	"homepage": "https://github.com/Raamdeluxe/formtest",
+	"devDependencies": {
+		"gh-pages": "^5.0.0",
+		"webpack": "^5.84.0",
+		"webpack-cli": "^5.1.1"
+	}
+}
