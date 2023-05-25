@@ -1,3 +1,5 @@
+import "./form.css";
+
 // create a form element
 const form = document.createElement("form");
 
