@@ -21,7 +21,9 @@
 	},
 	"homepage": "http://raamdeluxe.github.io/formtest",
 	"devDependencies": {
+		"css-loader": "^6.7.4",
 		"gh-pages": "^5.0.0",
+		"style-loader": "^3.3.3",
 		"webpack": "^5.84.0",
 		"webpack-cli": "^5.1.1"
 	}

@@ -8,4 +8,13 @@ module.exports = {
 		path: path.resolve(__dirname, "dist"),
 		publicPath: "/",
 	},
+	module: {
+		rules: [
+			{
+				test: /\.css$/i,
+				use: ["style-loader", "css-loader"],
+			},
+			// add other rules for other file types here if needed
+		],
+	},
 };
