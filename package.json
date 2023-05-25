@@ -17,9 +17,9 @@
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "http://raamdeluxe.github.io/formtests"
+		"url": "http://raamdeluxe.github.io/formtest/"
 	},
-	"homepage": "http://raamdeluxe.github.io/formtest",
+	"homepage": "http://raamdeluxe.github.io/formtest/",
 	"devDependencies": {
 		"css-loader": "^6.7.4",
 		"gh-pages": "^5.0.0",
